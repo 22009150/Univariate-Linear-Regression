@@ -46,8 +46,9 @@ plt.show()
 ```
 ## Output
 ![image](https://user-images.githubusercontent.com/118708624/214580468-ae3a8398-4ebc-431e-877a-8e7bdebdd501.png)
-![image](https://user-images.githubusercontent.com/118708624/214580996-84ae14de-071c-403b-a3df-6affca2fbab4.png)
-![image](https://user-images.githubusercontent.com/118708624/214581437-feed662a-4fa9-49d8-808b-b50e89fbfa32.png)
+![Screenshot 2023-01-25 200952](https://user-images.githubusercontent.com/118708624/214592566-64840c49-efcb-4e78-99b0-0eb152a3fe65.png)
+![Screenshot 2023-01-25 200622](https://user-images.githubusercontent.com/118708624/214591765-77ae2b78-9645-48ae-b7df-9eaf432ba092.png)
+
 
 
 
